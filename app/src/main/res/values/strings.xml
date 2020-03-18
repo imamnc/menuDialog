@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Belajar Navigasi</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="android_trivia">Android Trivia</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="what_color_is_the_android_mascot">What color is the Android mascot?</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="next_match">Next Match</string>
+    <string name="play">Play</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="back">BACK</string>
+    <string name="imamnc">Imam Nc</string>
+    <string name="made_by">MADE BY</string>
+    <string name="lanjut">Continue</string>
+    <string name="peraturan_permainan">Peraturan Permainan</string>
+    <string name="anda_harus_memilih_jawaban_yang_paling_benar_dari_pertanyaan_yang_diajukan">Anda harus memilih jawaban yang paling benar dari pertanyaan yang diajukan !</string>
+
+</resources>

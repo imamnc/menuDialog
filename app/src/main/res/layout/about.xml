@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.projecttujuh.About">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="20dp"
+        android:background="#4CAF50"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/made_by"
+        android:textColor="@color/design_default_color_background"
+        android:textSize="26sp" />
+
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/imageView"
+        android:layout_width="282dp"
+        android:layout_height="271dp"
+        android:layout_gravity="center"
+        android:layout_margin="50dp"
+        android:layout_marginBottom="70dp"
+        android:src="@drawable/profil"
+        app:civ_border_color="#fff"
+        app:civ_border_width="2dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/imamnc"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp" />
+
+
+</LinearLayout>
